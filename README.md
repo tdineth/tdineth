@@ -27,6 +27,27 @@
 
 
 
+---
+
+### 📊 GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nuwanj.github.io/NuwanJ/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://nuwanj.github.io/NuwanJ//dist/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="github-snake.svg" />
+</picture>
+
+<!-- <p>
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=nuwanj&show_icons=true&locale=en&layout=compact"
+        alt="nuwanj" />
+</p> -->
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=nuwanj&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
+
 <!--
 **tdineth/tdineth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
